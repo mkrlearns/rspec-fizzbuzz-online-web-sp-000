@@ -7,4 +7,5 @@ def fizzbuzz(x)
     return "Buzz"
   elsif x / 3 == 0
     return "Fizz"
+  end
 end
